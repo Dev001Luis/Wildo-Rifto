@@ -1,0 +1,23 @@
+.cont{
+    background-image: url(/media/sfondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.cont2{
+    background-image: url(/media/sfondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo1{
+    width: 200px;
+    height: 150px;
+}
+body{
+    background-color: rgba(47, 79, 79, 0.975);  
+}
+.mappa_wr{
+    width: 60vw;
+    height: 60vh;
+}
